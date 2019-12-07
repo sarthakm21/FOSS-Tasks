@@ -1,0 +1,4 @@
+FOSS : Teach more about creating and developing an open source software
+AppD : Teach the usage of Android Studio(which is very confusing) and building apps
+WebD : Getting the basics done
+CyberSec : I am yet to start any CTf's so dont know what to expect....
